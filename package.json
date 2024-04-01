@@ -1,6 +1,6 @@
 {
 	"name": "german-zipcode",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"type": "module",
 	"exports": "./build/index.js",
 	"types": "./build/index.d.ts",
