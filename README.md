@@ -9,7 +9,7 @@ Updated version of (zip-to-city)[https://github.com/juliuste/zip-to-city] with T
 ## Usage
 
 ```typescript
-import germanZipcode from "german-zipcode";
+import { germanZipcode } from "german-zipcode";
 
 const result = germanZipcode("10117");
 
