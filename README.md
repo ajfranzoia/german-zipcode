@@ -2,9 +2,9 @@
 
 Get the city associated with the given german ZIP code. 
 
-Using public domain ZIP code data from (OpenDataSoft)[https://public.opendatasoft.com/explore/dataset/georef-germany-postleitzahl/].
+Using public domain ZIP code data from [OpenDataSoft](https://public.opendatasoft.com/explore/dataset/georef-germany-postleitzahl/).
 
-Updated version of (zip-to-city)[https://github.com/juliuste/zip-to-city] with Typescript support.
+Updated version of [zip-to-city](https://github.com/juliuste/zip-to-city]) with latest data and Typescript support.
 
 ## Usage
 
