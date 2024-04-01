@@ -12,17 +12,17 @@ _Pull requests, bug reports, and all other forms of contribution are welcomed an
 
 ## :book: Code of Conduct
 
-Please review our [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+Please review our [Code of Conduct](../CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## :bulb: Asking Questions
 
-If you have any question that does not relate to a bug or a feature request, please use [GitHub Discussions](https://github.com/gjuchault/typescript-library-starter/discussions) instead of GitHub issues.
+If you have any question that does not relate to a bug or a feature request, please use [GitHub Discussions](https://github.com/ajfranzoia/german-zipcode/discussions) instead of GitHub issues.
 
 ## :inbox_tray: How can I Contribute?
 
 **GitHub issues**
 
-If you encounter a problem with this library or if you have a new feature you'd like to see in this project, please create [a new issue](https://github.com/gjuchault/typescript-library-starter/issues/new/choose).
+If you encounter a problem with this library or if you have a new feature you'd like to see in this project, please create [a new issue](https://github.com/ajfranzoia/german-zipcode/issues/new/choose).
 
 **GitHub Pull requests**
 
